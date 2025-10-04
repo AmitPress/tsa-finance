@@ -8,3 +8,5 @@ mplfinance
 matplotlib
 prophet
 tabulate
+gradio
+tensorflow
